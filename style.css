@@ -1,0 +1,29 @@
+.bac{
+    background-color: rgb(0, 255, 136);
+}
+h1{
+    text-align: center;
+    background-color: brown;
+    color: aliceblue;
+    margin: 0 auto;
+    width: fit-content;
+    margin-bottom: 10px;
+
+}
+*{
+    font-family: Arial;
+}
+.bobo{
+border: 2px solid red;
+background-color: black;
+}
+.ada{
+    background-color: aqua;
+    margin: 15px;
+    padding: 10px;
+}
+.ccf{
+    background-color: aqua;
+    margin: 15px;
+    padding: 10px;
+}
